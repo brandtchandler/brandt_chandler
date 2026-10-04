@@ -29,7 +29,7 @@
 
 [twitter]: https://twitter.com/brandtchandler
 [youtube]: https://www.youtube.com/c/brandtchandler
-[instagram]: https://www.instagram.com/brandtchandler/
+[instagram]: https://www.instagram.com/faithfulcontender/
 [linkedin]: https://linkedin.com/in/brandtchandler
 
 <!--
