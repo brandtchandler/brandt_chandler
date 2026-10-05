@@ -18,6 +18,10 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/brandtchandler/Package-Delivery-Pathfinding-Algorithm)
 
+<h2>📜 Certificates:</h2>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9e35cc60-d1a9-452d-bafe-b06be8220caa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <h2>📺 Popular YouTube Videos</h2>
 
 <h2> 🤳 Connect with me:</h2>
