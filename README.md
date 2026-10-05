@@ -22,6 +22,7 @@
 
 <img width="150" height="150" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/222f458b-80fe-4335-9bfc-84d2797ee525" />
 <img width="150" height="150" alt="junior-cybersecurity-analyst-career-path 1" src="https://github.com/user-attachments/assets/3f967c5a-91ec-4ca1-8f78-0c84dfe15e23" />
+[![Credly](https://img.shields.io/badge/Credly-Badges-blue)](https://www.credly.com/users/brandt-chandler)   
 
 <h2>📺 Popular YouTube Videos</h2>
 
