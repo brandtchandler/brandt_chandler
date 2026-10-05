@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandt! <br/><a href="https://github.com/brandtchandler">Programmer</a>, <a href="https://www.linkedin.com/in/brandtchandler/">Cybersecurity Professional</a>
+<h1>Hi, I'm Brandt! <br/><a href="https://github.com/brandtchandler">Cybersecurity Project</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
