@@ -20,7 +20,8 @@
 
 <h2>📜 Certificates:</h2>
 
-[![Credly Badge](https://images.credly.com/size/68x68/images/9e35cc60-d1a9-452d-bafe-b06be8220caa/image.png)](https://www.credly.com/badges/9e35cc60-d1a9-452d-bafe-b06be8220caa)   
+<img width="150" height="150" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/222f458b-80fe-4335-9bfc-84d2797ee525" />
+<img width="150" height="150" alt="junior-cybersecurity-analyst-career-path 1" src="https://github.com/user-attachments/assets/3f967c5a-91ec-4ca1-8f78-0c84dfe15e23" />
 
 <h2>📺 Popular YouTube Videos</h2>
 
