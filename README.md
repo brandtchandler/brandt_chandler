@@ -22,8 +22,8 @@
 
 <img width="150" height="150" alt="comptia-security-ce-certification" src="https://github.com/user-attachments/assets/222f458b-80fe-4335-9bfc-84d2797ee525" />
 <img width="150" height="150" alt="junior-cybersecurity-analyst-career-path 1" src="https://github.com/user-attachments/assets/3f967c5a-91ec-4ca1-8f78-0c84dfe15e23" />
-<img align="left" alt="brandtchandler | Credly" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/credly.svg" /> [Credly](https://www.credly.com/users.brandt-chandler)
-[![Credly](https://img.shields.io/badge/Credly-Badges-blue)](https://www.credly.com/users/brandt-chandler)   
+<a href="https://www.credly.com/users.brandt-chandler">
+  <img src="https://img.shields.io/badge/Credly-Profile-007A98?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badge" />
 
 <h2>📺 Popular YouTube Videos</h2>
 
