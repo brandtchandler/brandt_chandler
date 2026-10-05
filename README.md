@@ -20,7 +20,7 @@
 
 <h2>📜 Certificates:</h2>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9e35cc60-d1a9-452d-bafe-b06be8220caa" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![Credly Badge](https://images.credly.com/size/68x68/images/9e35cc60-d1a9-452d-bafe-b06be8220caa/image.png)](https://www.credly.com/badges/9e35cc60-d1a9-452d-bafe-b06be8220caa)   
 
 <h2>📺 Popular YouTube Videos</h2>
 
