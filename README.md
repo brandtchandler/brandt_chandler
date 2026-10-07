@@ -12,10 +12,10 @@
   - 
 - <b>Python</b>
   - [Package Dedfdlivery Application (Datastructures and Algorithms Demo)](https://github.com/brandtchandler/Package-Delivery-Pathfinding-Algorithm)
+  - 
 <h2>📜 Cybersecurity Hobbies and tools:</h2>
-  - [Package Dedfdlivery Application (Datastructures and Algorithms Demo)](https://github.com/brandtchandler/Package-Delivery-Pathfinding-Algorithm)
-  - [Linux Fundamentals and Labs](https://github.com/brandtchandler/Linux-Fundamentals-with-Kali-or-Parrot_Devian_Distro)
-  - [WarDriving and Cybersecurity].(https://github.com/brandtchandler/WarDriving-and-Cybersecurity).
+
+  - [WarDriving and Cybersecurity](https://github.com/brandtchandler/WarDriving-and-Cybersecurity)
   
 
 <h2>📜 Certificates:</h2>
