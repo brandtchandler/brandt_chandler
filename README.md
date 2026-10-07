@@ -12,8 +12,8 @@
   - 
 - <b>Python</b>
   - [Package Dedfdlivery Application (Datastructures and Algorithms Demo)](https://github.com/brandtchandler/Package-Delivery-Pathfinding-Algorithm)
-  - 
-<h2>📜 Cybersecurity Hobbies and tools:</h2>
+    
+<h2>🎮 Cybersecurity Hobbies and tools:</h2>
 
   - [WarDriving and Cybersecurity](https://github.com/brandtchandler/WarDriving-and-Cybersecurity)
   
