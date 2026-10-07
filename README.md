@@ -6,12 +6,17 @@
   - [Linux Fundamentals and Labs](https://github.com/brandtchandler/Linux-Fundamentals-with-Kali-or-Parrot_Devian_Distro)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
+  - <b>Learning Linux</b>
   - 
 - <b>C# (.NET Desktop Applications)</b>
   - 
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/brandtchandler/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Dedfdlivery Application (Datastructures and Algorithms Demo)](https://github.com/brandtchandler/Package-Delivery-Pathfinding-Algorithm)
+<h2>📜 Cybersecurity Hobbies and tools:</h2>
+  - [Package Dedfdlivery Application (Datastructures and Algorithms Demo)](https://github.com/brandtchandler/Package-Delivery-Pathfinding-Algorithm)
+  - [Linux Fundamentals and Labs](https://github.com/brandtchandler/Linux-Fundamentals-with-Kali-or-Parrot_Devian_Distro)
+  - [WarDriving and Cybersecurity].(https://github.com/brandtchandler/WarDriving-and-Cybersecurity).
+  
 
 <h2>📜 Certificates:</h2>
 
