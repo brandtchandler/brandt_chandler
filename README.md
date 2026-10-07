@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Basics:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Learning Linux</b>
   - [Praciting DS & Algos in Python]
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
