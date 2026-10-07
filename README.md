@@ -4,10 +4,7 @@
 
 - <b>Learning Linux</b>
   - [Linux Fundamentals and Labs](https://github.com/brandtchandler/Linux-Fundamentals-with-Kali-or-Parrot_Devian_Distro)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
-  - <b>Learning Linux</b>
-  - 
+ 
 - <b>C# (.NET Desktop Applications)</b>
   - 
 - <b>Python</b>
