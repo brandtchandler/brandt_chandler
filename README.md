@@ -3,18 +3,13 @@
 <h2>👨‍💻 Cybersecurity Basics:</h2>
 
 - <b>Learning Linux</b>
-  - [Praciting DS & Algos in Python]
+  - [Linux Fundamentals and Labs](https://github.com/brandtchandler/Linux-Fundamentals-with-Kali-or-Parrot_Devian_Distro)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/brandtchandler/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/brandtchandler/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/brandtchandler/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/brandtchandler/PowerShell-Integrity-FIM)
+  - 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/brandtchandler/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/brandtchandler/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/brandtchandler/Key-Logger-With-Email)
+  - 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/brandtchandler/Package-Delivery-Pathfinding-Algorithm)
 
