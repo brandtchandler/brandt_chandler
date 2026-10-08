@@ -8,9 +8,6 @@
 - <b>Python and Scripts</b>
   - [Scripts Projects](https://github.com/brandtchandler/Individual_Projects)
     
-- <b>Python</b>
-  - [Package Dedfdlivery Application (Datastructures and Algorithms Demo)](https://github.com/brandtchandler/Package-Delivery-Pathfinding-Algorithm)
-    
 <h2>🎮 Cybersecurity Hobbies and tools:</h2>
 
   - [WarDriving and Cybersecurity](https://github.com/brandtchandler/WarDriving-and-Cybersecurity)
