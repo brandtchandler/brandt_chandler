@@ -5,8 +5,9 @@
 - <b>Learning Linux</b>
   - [Linux Fundamentals and Labs](https://github.com/brandtchandler/Linux-Fundamentals-with-Kali-or-Parrot_Devian_Distro)
  
-- <b>C# (.NET Desktop Applications)</b>
-  - 
+- <b>Python and Scripts</b>
+  - [Scripts Projects](https://github.com/brandtchandler/Individual_Projects)
+    
 - <b>Python</b>
   - [Package Dedfdlivery Application (Datastructures and Algorithms Demo)](https://github.com/brandtchandler/Package-Delivery-Pathfinding-Algorithm)
     
